@@ -20,6 +20,16 @@ A responsive **React** & **Vite** web application that fetches top news headline
 ## Installation
 
 1. **Clone the repository**
-```bash
+bash
 git clone https://github.com/shwetaaranjan/News-Frontend-Project.git
 cd News-Frontend-Project
+## Install dependencies
+
+
+npm install
+
+## Create a .env file
+VITE_API_KEY=your_api_key_here
+
+## Run the development server
+npm run dev
